@@ -1,0 +1,5 @@
+vless://98449439-94e5-5400-807d-71863750c35b@speedtest.net:443?path=%2Fvless&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=mortezatv2020.ir&fp=chrome&type=ws&sni=speedtest.net#mortezatv+youtube+sub🇹🇷
+vless://d5960143-e544-59f0-878b-da784b75ea12@speedtest.net:443?path=%2Fvless&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=mortezatv2021.ir&fp=chrome&type=ws&sni=speedtest.net#mortezatv+youtube+sub🇫🇷
+vless://f758e5e3-a65e-57d3-8e9c-f6eb8fa777d8@speedtest.net:443?path=%2Fvless&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=mortezatv.ir&fp=chrome&type=ws&sni=speedtest.net#mortezatv+youtube+sub🇮🇱
+vless://67c7b088-1a42-525c-8be4-11d5e83baa46@speedtest.net:443?path=%2Fvless&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=mortezatv8989.ir&fp=chrome&type=ws&sni=speedtest.net#mortezatv+youtube+sub🇸🇮
+vless://c4964529-9ec6-5f13-93df-3ba774bff9f4@speedtest.net:443?path=%2Fvless&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=mortezatv2345.ir&fp=chrome&type=ws&sni=speedtest.net#mortezatv+youtube+sub🇮🇱
